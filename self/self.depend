@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1672877797 source:/home/adkham/c++/self/main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+
