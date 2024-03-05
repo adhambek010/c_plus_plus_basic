@@ -12,10 +12,10 @@ int main()
     if (length > 0)
     {
         int *arry = new int[length];
-        delete[] arry;
         input_array(arry,length);
         sort_ing(arry,length);
         display(arry,length);
+        delete[] arry;
     }
     return 0;
 }
